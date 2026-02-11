@@ -120,6 +120,7 @@
     }
   },
   "appearance": {
-    "default": "dark"
+    "default": "dark",
+    "strict": true
   }
 }
