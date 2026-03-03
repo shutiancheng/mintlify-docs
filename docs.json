@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Nouvel Docs",
   "colors": {
-    "primary": "#ffffff",
+    "primary": "#000000",
     "light": "#000000",
-    "dark": "#ffffff"
+    "dark": "#000000"
   },
   "favicon": {
     "light": "/images/NouvelLogoloose.svg",
