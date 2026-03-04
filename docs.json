@@ -8,8 +8,8 @@
     "dark": "#000000"
   },
   "favicon": {
-    "light": "/images/NouvelLogoloose.svg",
-    "dark": "/images/NouvelLogolooseinvert.svg"
+    "light": "/images/nouvelnewwhiteback.png",
+    "dark": "/images/nouvelnewinverted.png"
   },
   "navigation": {
     "tabs": [
